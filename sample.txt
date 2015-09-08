@@ -1,1 +1,5 @@
 create by 2015/09/09
+
+---
+これはbranch（fix-sample)で作業した内容です。
+---
